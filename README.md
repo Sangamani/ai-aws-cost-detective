@@ -194,7 +194,7 @@ Example:
 #  Demo Screenshots
 
 ## Dashboard
-![Dashboard](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-31%20123510.png?raw=true)
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Dashboard.png?raw=true)
 
 
 
