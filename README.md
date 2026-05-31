@@ -191,7 +191,7 @@ Example:
 
 ---
 
-# 📸 Demo Screenshots
+#  Demo Screenshots
 
 ## Dashboard
 
