@@ -200,8 +200,7 @@ Example:
 
 ## AWS EC2 Console
 
-![AWS EC2 Console](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-30%20225806.png?raw=true)
-
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/EC2%20Running%20instance.png?raw=true)
 
 ## Terraform Apply
 ![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/terraform_intilized.png?raw=true)
