@@ -207,6 +207,9 @@ Example:
 ## Terraform Apply
 ![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/terraform_intilized.png?raw=true)
 
+##Terraform Infrastructure Provisioning
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Terraform%20Infrastructure%20Provisioning.png?raw=true)
+
 
 ---
 
