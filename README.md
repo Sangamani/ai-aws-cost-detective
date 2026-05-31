@@ -210,6 +210,12 @@ Example:
 ##Terraform Infrastructure Provisioning
 ![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Terraform%20Infrastructure%20Provisioning.png?raw=true)
 
+
+##Backend API Response
+#(Real-Time EC2 Monitoring API)
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Backend%20API%20Response.png?raw=true)
+
+
 ##AI Recommendation Engine
 
 ![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/AI%20Recommendation%20Engine.png?raw=true)
