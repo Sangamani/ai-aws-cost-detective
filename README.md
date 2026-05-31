@@ -205,8 +205,8 @@ Example:
 
 
 ## Terraform Apply
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/terraform_intilized.png?raw=true)
 
-(Add screenshot here)
 
 ---
 
